@@ -1,2 +1,2 @@
 # bgg-awards
-get awards from bgg
+Gets awards data from BGG
